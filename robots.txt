@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://stubbornjerk.github.io/sitemap.xml
+Sitemap: https://stubbornjerk.github.io/mms142-groupm/sitemap.xml
