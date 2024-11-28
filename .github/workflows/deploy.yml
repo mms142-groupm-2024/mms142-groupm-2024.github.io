@@ -31,7 +31,7 @@ on:
   pull_request:
     branches:
       - master
-      - main
+      - source
     paths:
       - "assets/**"
       - "**.bib"
