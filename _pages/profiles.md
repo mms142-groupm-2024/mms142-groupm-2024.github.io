@@ -3,8 +3,7 @@ layout: profiles
 permalink: /people/
 title: team
 description: members of Group M
-nav: true
-nav_order: 2
+nav: false
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
