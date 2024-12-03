@@ -14,7 +14,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
    
-  - align: left
+  - align: right
     image: writingteam.jpg
     content: writing_team.md
     image_circular: false # crops the image to make it circular
