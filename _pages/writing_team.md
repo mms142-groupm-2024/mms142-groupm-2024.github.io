@@ -2,7 +2,7 @@
 
 > Members of the content team are in charge of deciding what goes into each page. They're in charge of the research and writing to ensure the verity and accuracy of each article. 
 
-**Members (_username_)**
+**Members**
 * Aezhl Alleone Deca Rebutoc (_aezhlrebutoc_)
 * Aira Kate Plantilla
 * Charlize Gabrielle  Rodriguez (_charlz777_)
