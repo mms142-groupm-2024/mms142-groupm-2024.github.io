@@ -13,7 +13,7 @@ profiles:
     content: coding_team.md
     image_circular: false # crops the image to make it circular
     more_info: >
-   
+
   - align: right
     image: writingteam.jpg
     content: writing_team.md
