@@ -7,7 +7,8 @@ subtitle: on the history and impact of the Internet and social media on traditio
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
---
+---
+
 Publishing has had a long and colored history, dating back to even before the advent of the printing press. 
 
 This site was made as a report on that `history`, its ins and outs, and `how the Intenet affected` and `continues to affect` it.
