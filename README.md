@@ -7,7 +7,7 @@ The site is powered by [Jekyll](https://jekyllrb.com/) with the [al-folio theme]
 
 ## Group M
 
-<table>
+<table class="center">
 <tr>
 <th>Member</th>
 <th>GitHub Username</th>
@@ -68,8 +68,7 @@ The site is powered by [Jekyll](https://jekyllrb.com/) with the [al-folio theme]
 
 To see the division of roles, check [here](https://mms142-groupm-2024.github.io/people/).
 
-## The report
-[will edit this later with hyperlinks to each page, probably]
+## The report*
 The report is divided into three different parts:
 * History of Traditional Publishing
 * Digital Publishing
