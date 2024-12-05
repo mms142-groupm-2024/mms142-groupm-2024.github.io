@@ -1,6 +1,6 @@
 ### Content team
 
-> Members of the content team are in charge of deciding what goes into each page. They're in charge of the research and writing to ensure the verity and accuracy of each article. 
+> The content team is in charge of deciding what goes into each page for the report. They did the research and writing to ensure the verity and accuracy of each article, as well as its mode of delivery. 
 
 **Members**
 * Aezhl Alleone Deca Rebutoc (_aezhlrebutoc_)
