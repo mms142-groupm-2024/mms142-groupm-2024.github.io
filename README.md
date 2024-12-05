@@ -9,8 +9,8 @@ The site is powered by [Jekyll](https://jekyllrb.com/) with the [al-folio theme]
 
 <table>
 <tr>
-<th>**Member**</th>
-<th>**GitHub Username**</th>
+<th>Member</th>
+<th>GitHub Username</th>
 </tr>
 <tr>
 <td>Aezhl Alleone Deca Rebutoc</td>
@@ -68,7 +68,8 @@ The site is powered by [Jekyll](https://jekyllrb.com/) with the [al-folio theme]
 
 To see the division of roles, check [here](https://mms142-groupm-2024.github.io/people/).
 
-## The report {::comment}will edit this with summary and links{:/comment}
+## The report
+[will edit this later with hyperlinks to each page, probably]
 The report is divided into three different parts:
 * History of Traditional Publishing
 * Digital Publishing
