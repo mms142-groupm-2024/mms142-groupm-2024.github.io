@@ -54,7 +54,7 @@ The site is powered by [Jekyll](https://jekyllrb.com/) with the [al-folio theme]
 <tr/>
 <tr>
 <td>Iñigo Portugal</td>
-<td>enneko20</td>
+<td>eneko20</td>
 <tr/>
 <tr>
 <td>SJ Rambano</td>
