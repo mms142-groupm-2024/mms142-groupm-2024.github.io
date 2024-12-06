@@ -46,7 +46,7 @@ The site is powered by [Jekyll](https://jekyllrb.com/) with the [al-folio theme]
 <tr/>
 <tr>
 <td>Sidney Erika Peredo</td>
-<td>   </td>
+<td>sidneyerika</td>
 <tr/>
 <tr>
 <td>Zeth Michael Perez</td>
