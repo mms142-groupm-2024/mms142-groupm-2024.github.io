@@ -44,8 +44,12 @@ bibliography: papers.bib
 
 <b>References:</b>
 
-*{% reference journalismuniversity2024 %}*
-*{% reference m2023 %}*
-*{% reference roos2023 %}*
-*{% reference tuckeretal2024 %}*
-*{% reference printingpress %}*
+{% reference journalismuniversity2024 %}
+
+{% reference m2023 %}
+
+{% reference roos2023 %}
+
+{% reference tuckeretal2024 %}
+
+{% reference printingpress %}
