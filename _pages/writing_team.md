@@ -11,5 +11,5 @@
 - Kayla Gwyneth Pullon (_avokeydo_)
 - Klaissa Moraine Romero (_mengaii_)
 - Lila Nicole Quintans (_lanimosity_)
-- Sidney Erika Peredo
+- Sidney Erika Peredo (_sidneyerika_)
 - Zeth Michael Perez (_zethwitha-zzz_)
