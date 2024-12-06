@@ -7,7 +7,8 @@ dropdown: true
 children:
   - title: blogs
     permalink: /blog/
-  - title: divider
+  - title: history of traditional publishing
+    permalink: /history/
   - title: team
     permalink: /people/
 ---
