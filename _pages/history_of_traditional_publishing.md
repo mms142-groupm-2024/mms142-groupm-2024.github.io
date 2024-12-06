@@ -1,6 +1,6 @@
 ---
 layout: distill
-title: History of traditional publishing
+title: History of Traditional Publishing
 permalink: /history/
 nav bar: false
 subtitle: on the history and impact of the Internet and social media on traditional publishing
