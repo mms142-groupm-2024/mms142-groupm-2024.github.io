@@ -65,7 +65,7 @@ Over time, publishing became more structured — with publishers selecting works
 
 Despite its historical significance, traditional publishing faced several challenges through the years:
 
- * Cost and Efficiency: High printing and distribution costs and lengthy production timelines. These hindered publishers to respond quickly to shift and adapt to market demands {% cite m2023 %} {% cite tuckeretal2024}.
+ * Cost and Efficiency: High printing and distribution costs and lengthy production timelines. These hindered publishers to respond quickly to shift and adapt to market demands {% cite m2023 tuckeretal2024 %}.
 
  * Limited Inclusivity: The centralized structure of publishing houses imposed rigorous selection criteria, often excluding voices that deviated from trends or lacked representation. This exclusivity reinforced a gatekeeping system prioritizing established authors over emerging ones {% cite tuckeretal2024 %}.
 
