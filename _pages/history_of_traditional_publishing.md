@@ -5,6 +5,7 @@ permalink: /history/
 nav bar: false
 subtitle: on the history and impact of the Internet and social media on traditional publishing
 related_publications: true
+date: 2024-12-06
 bibliography: papers.bib
 toc:
     sidebar: left
@@ -17,9 +18,11 @@ toc:
 
 authors:
     - name: Charlize Gabrielle Rodriguez
-    affiliations: Group M Content Team
+    affiliations:
+        name: Group M Content Team
     - name: Lila Nicole Quintans
-    affiliations: Group M Content Team
+    affiliations:
+        name: Group M Content Team
 ---
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
