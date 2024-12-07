@@ -9,13 +9,7 @@ date: 2024-12-06
 bibliography: papers.bib
 toc:
     sidebar: left
-    - name: Origins and Evolution
-    subsections:
-        - name: The Publishing Process
-        - name: Challenges of the Traditional Model
-        - name: Precursor to Disruption
-    - name: References
-
+    
 authors:
     - name: Charlize Gabrielle Rodriguez
     affiliations:

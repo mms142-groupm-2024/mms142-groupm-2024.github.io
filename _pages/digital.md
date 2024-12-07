@@ -8,29 +8,7 @@ related_publications: true
 date: 2024-12-07
 bibliography: papers.bib
 toc:
-    beginning: true
     sidebar: left
-    - name: Digital publishing
-    subsections:
-        - name: A look into ebook history
-    - name: Digital publishers in e-reading: how are they disruptive?
-    subsections:
-        - name: Amazon
-        subsections:
-            - name: Other Kindle features and services
-            - name: Where Amazon Kindle is at today
-        - name: Wattpad
-        subsections:
-            - name: How it changes the game of publishing
-            - name: Where readers shape stories
-            - name: Wattpad's winning formula
-        - name: Webtoon
-        subsections:
-            - name: Comic-writing beyond industry limits
-        - name: Scribd
-        subsections:
-            - name: Scribd as a threat to traditional publishing
-    - name: References
 
 authors:
     - name: Eizel Euwyn Renovalles
