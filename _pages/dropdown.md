@@ -1,14 +1,12 @@
 ---
 layout: page
-title: more
+title: articles
 nav: true
 nav_order: 5
 dropdown: true
 children:
-  - title: blogs
-    permalink: /blog/
   - title: history of traditional publishing
     permalink: /history/
-  - title: team
-    permalink: /people/
+  - title: digital publishing
+    permalink: /digital/
 ---
