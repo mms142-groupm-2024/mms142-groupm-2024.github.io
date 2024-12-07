@@ -7,7 +7,6 @@ subtitle: on the history and impact of the Internet and social media on traditio
 related_publications: true
 bibliography: papers.bib
 toc:
-    beginning: true
     sidebar: left
     - name: Origins and Evolution
     subsections:
