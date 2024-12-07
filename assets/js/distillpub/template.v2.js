@@ -2087,28 +2087,6 @@ d-appendix > distill-appendix {
             <span class="name">${author.name}</span>`
           }
         </p>
-        <p class="affiliation">
-        ${author.affiliations
-          .map((affiliation) =>
-            affiliation.url
-              ? `<a class="affiliation" href="${affiliation.url}">${affiliation.name}</a>`
-              : `<span class="affiliation">${affiliation.name}</span>`
-          )
-          .join(", ")}
-        </p>
-      `
-        )
-        .join("")}
-    </div>
-    <div>
-      <h3>Published</h3>
-      ${
-        frontMatter.publishedDate
-          ? `
-        <p>${frontMatter.publishedMonth} ${frontMatter.publishedDay}, ${frontMatter.publishedYear}</p> `
-          : `
-        <p><em>Not published yet.</em></p>`
-      }
     </div>
   </div>
 `;
