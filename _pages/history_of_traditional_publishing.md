@@ -9,8 +9,11 @@ bibliography: papers.bib
 ---
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/bookspublished.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/books_published.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
+</div>
+<div class="caption" style="font-size:.675rem">
+   Photo by Chris Lawton from Unsplash.
 </div>
 
 ## Origins and Evolution
@@ -31,6 +34,9 @@ In 1297, a Ching-te magistrate Wang Chen printed Nung Shu, a treatise on agricul
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/books_1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
+</div>
+<div class="caption" style="font-size:.675rem">
+   Photos from Unsplash. On the left, Photo by Hannes Wolf. Middle, Photo by Bruno Martins. Right, Photo by Stephen Phillips.
 </div>
 
 In the 15th century, traditional publishing underwent a significant change due to the invention of Johannes Gutenberg being introduced: movable-type printing. This made it possible to produce books more efficiently and at a lower cost compared to hand-copied manuscripts, which had previously been the norm. Furthermore, not only did the printing press facilitate the mass production of books but also revolutionized communication by enabling the rapid spread of information. It played a crucial role during the Renaissance by fostering the spread of humanist ideas, as well as during the Reformation— by sharing Martin Luther’s works concerning his criticism of the Catholic Church. This democratized knowledge, allowing people from different social backgrounds to engage with ideas that had previously been accessible only to the elite {% cite roos2023 %}.
