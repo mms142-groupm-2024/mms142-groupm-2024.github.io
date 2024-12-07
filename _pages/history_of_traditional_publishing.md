@@ -6,10 +6,12 @@ nav bar: false
 subtitle: on the history and impact of the Internet and social media on traditional publishing
 related_publications: true
 bibliography: papers.bib
-
 ---
-
-<img src="/assets/img/bookspublished.jpg" width="100%" style="display: block; margin: auto;" />
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/bookspublished.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 ## Origins and Evolution
 
@@ -18,6 +20,18 @@ The invention of the printing press revolutionized the spread of information in 
 A century later, a moveable type was developed by Bi Sheng from Yingshan, Hubei, China. The moveable type was initially carved into clay and baked into hard blocks that would allow individual characters to be rearranged and reused. By 1127 to 1279 A.D., during the time of the Southern Song Dynasty, books had become a vital part of society as it helped educate the population, creating a scholarly class who became civil servants. Book collections had also become a status symbol for the wealthy.
 
 In 1297, a Ching-te magistrate Wang Chen printed Nung Shu, a treatise on agriculture and farming practices using woodtype, heralding the comeback of this printing process. Nung Shu was exported to Europe and was considered the world’s first mass-produced book {% cite printingpress %}.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/press_1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/press_2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/book_1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 In the 15th century, traditional publishing underwent a significant change due to the invention of Johannes Gutenberg being introduced: movable-type printing. This made it possible to produce books more efficiently and at a lower cost compared to hand-copied manuscripts, which had previously been the norm. Furthermore, not only did the printing press facilitate the mass production of books but also revolutionized communication by enabling the rapid spread of information. It played a crucial role during the Renaissance by fostering the spread of humanist ideas, as well as during the Reformation— by sharing Martin Luther’s works concerning his criticism of the Catholic Church. This democratized knowledge, allowing people from different social backgrounds to engage with ideas that had previously been accessible only to the elite {% cite roos2023 %}.
 
