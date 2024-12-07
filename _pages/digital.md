@@ -11,20 +11,10 @@ toc:
 
 authors:
     - name: Eizel Euwyn Renovalles
-    affiliations: 
-        name: Group M Content Team
     - name: Zeth Michael Perez
-    affiliations: 
-        name: Group M Content Team
     - name: Sidney Erika Peredo
-    affiliations: 
-        name: Group M Content Team
     - name: Charlize Gabrielle Rodriguez
-    affiliations: 
-        name: Group M Content Team
     - name: Aezhl Alleone Deca Rebutoc    
-    affiliations: 
-        name: Group M Content Team
 ---
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

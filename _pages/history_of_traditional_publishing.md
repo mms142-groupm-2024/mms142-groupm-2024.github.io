@@ -11,11 +11,7 @@ toc:
 
 authors:
     - name: Charlize Gabrielle Rodriguez
-    affiliations:
-        name: Group M Content Team
     - name: Lila Nicole Quintans
-    affiliations:
-        name: Group M Content Team
 ---
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
