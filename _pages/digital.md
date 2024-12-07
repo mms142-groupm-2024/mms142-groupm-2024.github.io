@@ -139,7 +139,7 @@ While all of these features look promising, a monthly subscription is required t
 
 Today, the preeminence of technology is undeniable. Convenience and accessibility have convinced people to shift toward the emergence of services that can offer variety and flexibility. Scribd has taken over the eReading field successfully because of its ability to deliver an unlimited range of content, varying primarily from ebooks, documents, and audio to an expansive global reach.
 
-For readers, it is also changing the way they read by having the option of an "autopilot reading" with audiobooks. People can now listen than read books without focusing only on one thing {% cite Williams2021 %}.
+For readers, it is also changing the way they read by having the option of an "autopilot reading" with audiobooks. People can now listen than read books without focusing only on one thing {% cite williams_why_2021 %}.
 
 From an article, _Why Scribd’s Business Model Is so Successful?_ {% cite Vizologi %}, in platforms such as Scribd, many authors and writers are given more opportunities with its self-publishing feature, effortlessly reaching thousands of readers. Unlike traditional publishing, subscribers can now have access to diverse materials with one swipe of a card, which is a detrimental disadvantage of individually published books with their individual purchases. 
 
@@ -180,7 +180,7 @@ Scribd remains one of the leading eBook publishing platforms today. Over the pas
 
 {% reference webtoon2021loreolympus %}
 
-{% reference Williams2021 %}
+{% reference williams_why_2021 %}
 
 {% reference Vizologi %}
 
