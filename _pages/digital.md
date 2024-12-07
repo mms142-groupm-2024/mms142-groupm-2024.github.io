@@ -3,17 +3,11 @@ layout: distill
 title: Digital Publishing
 permalink: /digital/
 nav bar: false
-subtitle: on the history and impact of the Internet and social media on traditional publishing
+description: <b>the Internet's effects on publishing</b><br/>
+                <em>Sidney Erika Peredo 
+                <br/> Zeth Michael Perez <br/> Eizel Euwyn Renovalles <br/> Aezhl Alleone Deca Rebutoc <br/>Charlize Gabrielle Rodriguez</em> 
 related_publications: true
-bibliography: papers.bib
-toc: true
-
-authors:
-    - name: Eizel Euwyn Renovalles
-    - name: Zeth Michael Perez
-    - name: Sidney Erika Peredo
-    - name: Charlize Gabrielle Rodriguez
-    - name: Aezhl Alleone Deca Rebutoc    
+bibliography: papers.bib   
 ---
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -32,9 +26,9 @@ Digital publishing is the process of producing and distributing digital content 
 ## A look into ebook history
 Digital publishing was first recognized during the 1930s in the form of spoken audiobooks. These were devices that used recordings and audio which allowed people with disabilities to access content without the need for help in narration {% cite constantopedos_history_nodate %}. While it is not actually digital, it definitely set the vision for digital publishing in the future.
 
-Then came 1971, the year in which Michael Hart founded Project Gutenberg, an online library that archives thousands of free published books that eventually revolutionized the use of ebooks today. In the early 1990s, a rise in portable gadgets emerged including ebook readers such as the Rocket eBook (1998) and Palm Pilot(1996). Unfortunately, these devices soon fell flat as it wasn’t as widely used as a reading format and readers were facing technological limitations at the time, leading to a drop in ebook’s popularity {% reference taylor_very_nodate %}. Digital publishing had gone through a pause during this period since technology was still too limited in terms of accessibility and features, plus not everyone had the ability to afford such devices thus making it quite expensive and highly inaccessible for some.
+Then came 1971, the year in which Michael Hart founded Project Gutenberg, an online library that archives thousands of free published books that eventually revolutionized the use of ebooks today. In the early 1990s, a rise in portable gadgets emerged including ebook readers such as the Rocket eBook (1998) and Palm Pilot(1996). Unfortunately, these devices soon fell flat as it wasn’t as widely used as a reading format and readers were facing technological limitations at the time, leading to a drop in ebook’s popularity {% cite taylor_very_nodate %}. Digital publishing had gone through a pause during this period since technology was still too limited in terms of accessibility and features, plus not everyone had the ability to afford such devices thus making it quite expensive and highly inaccessible for some.
 
-This all changed when the year 2000s arrived. Technological advancements were booming largely as ever and new innovative gadgets were entering the market. Popular companies including Sony picked up on the idea of ebooks and released their own portable device back in 2006 called Sony Reader. The state of digital publishing was slowly rising again but it was not until Amazon launched their own device called Kindle that ebooks became widely known and used by the population {% reference taylor_very_nodate %}. Since Kindle’s successful release in 2007, digital publishing only continues to grow in popularity. Now, publishing content and accessing popular ebook titles have never been easier and more comfortable. Publishers could publish and advertise their content online and readers could freely browse through thousands of available ebooks with a few clicks. However, with this massive growth in digital publishing means a noticeable decline for traditional publishing and printing.
+This all changed when the year 2000s arrived. Technological advancements were booming largely as ever and new innovative gadgets were entering the market. Popular companies including Sony picked up on the idea of ebooks and released their own portable device back in 2006 called Sony Reader. The state of digital publishing was slowly rising again but it was not until Amazon launched their own device called Kindle that ebooks became widely known and used by the population {% cite taylor_very_nodate %}. Since Kindle’s successful release in 2007, digital publishing only continues to grow in popularity. Now, publishing content and accessing popular ebook titles have never been easier and more comfortable. Publishers could publish and advertise their content online and readers could freely browse through thousands of available ebooks with a few clicks. However, with this massive growth in digital publishing means a noticeable decline for traditional publishing and printing.
 
 # Digital publishers in e-reading: how are they disruptive?
 
@@ -62,7 +56,7 @@ Amazon added many other quality of life features and subscription services in it
 
 Today, Amazon’s Kindle Store lists millions of eBook titles, a far cry from its initial catalog of 90,000 eBooks {% cite pierce_kindle_2017 %}. It surpassed competitors such as Barnes & Nobles, making up 80% of eBook sales in the US. But ebooks are unlikely to replace print, as a Pew Research Center study found that 65% out of 73% US adult readers still read print books {% cite perrin_book_2016 %}.
 
- However, this same study also found that adults were more likely to read on tablets, phones, and computers. Thus, Amazon continues its efforts in adapting to people’s reading and digital habits, whether it be through combining their Audible eBooks with Kindle and enhancing Alexa’s voice for better long-form book listening. 
+However, this same study also found that adults were more likely to read on tablets, phones, and computers. Thus, Amazon continues its efforts in adapting to people’s reading and digital habits, whether it be through combining their Audible eBooks with Kindle and enhancing Alexa’s voice for better long-form book listening. 
 
 ## Wattpad
 
@@ -182,4 +176,3 @@ Scribd remains one of the leading eBook publishing platforms today. Over the pas
 {% reference williams_why_2021 %}
 
 {% reference vizologi_scribd_nodate %}
-
