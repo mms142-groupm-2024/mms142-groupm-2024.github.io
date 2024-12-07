@@ -12,7 +12,7 @@ bibliography: papers.bib
         {% include figure.liquid loading="eager" path="assets/img/books_published.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
+<div class="caption" style="font-size:.675rem">
    Photo by Chris Lawton from Unsplash.
 </div>
 
@@ -35,7 +35,7 @@ In 1297, a Ching-te magistrate Wang Chen printed Nung Shu, a treatise on agricul
         {% include figure.liquid loading="eager" path="assets/img/books_1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
+<div class="caption" style="font-size:.675rem">
    Photos from Unsplash. On the left, Photo by Hannes Wolf. Middle, Photo by Bruno Martins. Right, Photo by Stephen Phillips.
 </div>
 
