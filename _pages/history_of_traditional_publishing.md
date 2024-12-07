@@ -4,18 +4,28 @@ title: History of Traditional Publishing
 permalink: /history/
 nav bar: false
 subtitle: on the history and impact of the Internet and social media on traditional publishing
+date: 2024-12-06
 related_publications: true
 bibliography: papers.bib
 toc:
     beginning: true
+    sidebar: left
+    - name: Origins and Evolution
+    subsections:
+        - name: The Publishing Process
+        - name: Challenges of the Traditional Model
+        - name: Precursor to Disruption
+    - name: References
 
 authors:
     - name: Charlize Gabrielle Rodriguez
+    affiliations: Group M Content Team
     - name: Lila Nicole Quintans
+    affiliations: Group M Content Team
 ---
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/bookspublished.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/books_published.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption" style="font-size:.675rem">
@@ -81,7 +91,7 @@ With the start of the era of digital technology, the inefficiencies of tradition
 
 Self-publishing options empowered authors and enabled them to reach global audiences instantly. The emergence of e-books and online marketing tools marked the beginning of a fundamental change that still challenges traditional publishing today {% cite journalismuniversity2024 %}.
 
-# References
+## References
 
 {% reference journalismuniversity2024 %}
 

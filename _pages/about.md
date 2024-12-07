@@ -11,7 +11,7 @@ social: false # includes social icons at the bottom of the page
 
 Publishing has had a long and colored history, dating back to even before the advent of the printing press. 
 
-This site was made as a report on that [history](https://mms142-groupm-2024.github.io/history/), its ins and outs, and [how the Internet affected](https://mms142-groupm-2024.github.io/) and `continues to affect` it.
+This site was made as a report on that [history](https://mms142-groupm-2024.github.io/history/), its ins and outs, and [how the Internet affected](https://mms142-groupm-2024.github.io/digital/) and `continues to affect` it.
 
 This site was made as a requirement in the completion of the course Internet Technologies and Web Development (MMS142) for the University of the Philippines Open University.
 

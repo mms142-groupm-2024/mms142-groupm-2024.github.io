@@ -5,16 +5,44 @@ permalink: /digital/
 nav bar: false
 subtitle: on the history and impact of the Internet and social media on traditional publishing
 related_publications: true
+date: 2024-12-07
 bibliography: papers.bib
 toc:
     beginning: true
+    sidebar: left
+    - name: Digital publishing
+    subsections:
+        - name: A look into ebook history
+    - name: Digital publishers in e-reading: how are they disruptive?
+    subsections:
+        - name: Amazon
+        subsections:
+            - name: Other Kindle features and services
+            - name: Where Amazon Kindle is at today
+        - name: Wattpad
+        subsections:
+            - name: How it changes the game of publishing
+            - name: Where readers shape stories
+            - name: Wattpad's winning formula
+        - name: Webtoon
+        subsections:
+            - name: Comic-writing beyond industry limits
+        - name: Scribd
+        subsections:
+            - name: Scribd as a threat to traditional publishing
+    - name: References
 
 authors:
     - name: Eizel Euwyn Renovalles
+    affiliation: Group M Content Team
     - name: Zeth Michael Perez
+    affiliation: Group M Content Team
     - name: Sidney Erika Peredo
+    affiliation: Group M Content Team
     - name: Charlize Gabrielle Rodriguez
+    affliation: Group M Content Team
     - name: Aezhl Alleone Deca Rebutoc    
+    affiliation: Group M Content Team
 ---
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -59,7 +87,7 @@ Amazon added many other quality of life features and subscription services in it
 * Kindle First (Early Access to new books); and,
 * Kindle Unlimited (unrestricted access to Kindle books and Audible audiobooks) {% cite amazon_staff_look_2018 %}.
 
-### Where the Amazon Kindle is at today
+### Where Amazon Kindle is at today
 
 Today, Amazon’s Kindle Store lists millions of eBook titles, a far cry from its initial catalog of 90,000 eBooks {% cite pierce_kindle_2017 %}. It surpassed competitors such as Barnes & Nobles, making up 80% of eBook sales in the US. But ebooks are unlikely to replace print, as a Pew Research Center study found that 65% out of 73% US adult readers still read print books {% cite perrin_book_2016 %}.
 
@@ -146,7 +174,7 @@ From an article, _Why Scribd’s Business Model Is so Successful?_ {% cite vizol
 Scribd remains one of the leading eBook publishing platforms today. Over the past few years, its popularity has steadily grown as more people shift to online reading and publishing, catering to a wide range of needs—whether for avid reading, casual enjoyment, or academic and research purposes. This transition marks both a significant leap forward and a step back for traditional publishing​.
 
 
-# References
+## References
 
 {% reference amazon_staff_look_2018 %}
 
