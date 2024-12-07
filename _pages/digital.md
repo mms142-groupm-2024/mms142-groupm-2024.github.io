@@ -5,7 +5,6 @@ permalink: /digital/
 nav bar: false
 subtitle: on the history and impact of the Internet and social media on traditional publishing
 related_publications: true
-date: 2024-12-07
 bibliography: papers.bib
 toc:
     beginning: true
@@ -34,15 +33,15 @@ toc:
 
 authors:
     - name: Eizel Euwyn Renovalles
-    affiliation: Group M Content Team
+    affiliations: Group M Content Team
     - name: Zeth Michael Perez
-    affiliation: Group M Content Team
+    affiliations: Group M Content Team
     - name: Sidney Erika Peredo
-    affiliation: Group M Content Team
+    affiliations: Group M Content Team
     - name: Charlize Gabrielle Rodriguez
-    affliation: Group M Content Team
+    affiliations: Group M Content Team
     - name: Aezhl Alleone Deca Rebutoc    
-    affiliation: Group M Content Team
+    affiliations: Group M Content Team
 ---
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

@@ -4,7 +4,6 @@ title: History of Traditional Publishing
 permalink: /history/
 nav bar: false
 subtitle: on the history and impact of the Internet and social media on traditional publishing
-date: 2024-12-06
 related_publications: true
 bibliography: papers.bib
 toc:
