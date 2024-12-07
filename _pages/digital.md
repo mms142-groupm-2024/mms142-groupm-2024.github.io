@@ -6,8 +6,7 @@ nav bar: false
 subtitle: on the history and impact of the Internet and social media on traditional publishing
 related_publications: true
 bibliography: papers.bib
-toc:
-    sidebar: left
+toc: true
 
 authors:
     - name: Eizel Euwyn Renovalles
