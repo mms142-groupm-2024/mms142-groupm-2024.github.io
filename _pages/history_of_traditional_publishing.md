@@ -9,7 +9,7 @@ bibliography: papers.bib
 
 ---
 
-<img src="bookspublished.jpg" width="80%" style="display: block; margin: auto;" />
+<img src="/assets/img/bookspublished.jpg" width="80%" style="display: block; margin: auto;" />
 
 ## Origins and Evolution
 
