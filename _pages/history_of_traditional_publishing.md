@@ -29,7 +29,7 @@ In 1297, a Ching-te magistrate Wang Chen printed Nung Shu, a treatise on agricul
         {% include figure.liquid loading="eager" path="assets/img/press_2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/book_1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/books_1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
