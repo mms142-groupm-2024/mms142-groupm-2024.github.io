@@ -141,7 +141,7 @@ Today, the preeminence of technology is undeniable. Convenience and accessibilit
 
 For readers, it is also changing the way they read by having the option of an "autopilot reading" with audiobooks. People can now listen than read books without focusing only on one thing {% cite williams_why_2021 %}.
 
-From an article, _Why Scribd’s Business Model Is so Successful?_ {% cite Vizologi %}, in platforms such as Scribd, many authors and writers are given more opportunities with its self-publishing feature, effortlessly reaching thousands of readers. Unlike traditional publishing, subscribers can now have access to diverse materials with one swipe of a card, which is a detrimental disadvantage of individually published books with their individual purchases. 
+From an article, _Why Scribd’s Business Model Is so Successful?_ {% cite vizologi_scribd_nodate %}, in platforms such as Scribd, many authors and writers are given more opportunities with its self-publishing feature, effortlessly reaching thousands of readers. Unlike traditional publishing, subscribers can now have access to diverse materials with one swipe of a card, which is a detrimental disadvantage of individually published books with their individual purchases. 
 
 Scribd remains one of the leading eBook publishing platforms today. Over the past few years, its popularity has steadily grown as more people shift to online reading and publishing, catering to a wide range of needs—whether for avid reading, casual enjoyment, or academic and research purposes. This transition marks both a significant leap forward and a step back for traditional publishing​.
 
@@ -182,5 +182,5 @@ Scribd remains one of the leading eBook publishing platforms today. Over the pas
 
 {% reference williams_why_2021 %}
 
-{% reference Vizologi %}
+{% reference vizologi_scribd_nodate %}
 
