@@ -8,6 +8,9 @@ related_publications: true
 bibliography: papers.bib
 
 ---
+
+<img src="bookspublished.jpg" width="80%" style="display: block; margin: auto;" />
+
 ## Origins and Evolution
 
 The invention of the printing press revolutionized the spread of information in society. With the oldest known printed text from 868 A.D. originating in China, the printing press allowed for the mass production of texts such as a printed calendar, books, dictionaries, and educational materials. Book-formatted texts began to replace rolled-up scrolls during this period. Neighboring countries such as Japan and Korea were also utilizing woodblock printing during that time. Metal block printing was also eventually developed.
