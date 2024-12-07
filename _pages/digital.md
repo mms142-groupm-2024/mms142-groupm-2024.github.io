@@ -5,7 +5,6 @@ permalink: /digital/
 nav bar: false
 subtitle: on the history and impact of the Internet and social media on traditional publishing
 related_publications: true
-date: 2024-12-07
 bibliography: papers.bib
 toc:
     sidebar: left

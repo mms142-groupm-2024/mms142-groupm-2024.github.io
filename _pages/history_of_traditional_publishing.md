@@ -5,11 +5,10 @@ permalink: /history/
 nav bar: false
 subtitle: on the history and impact of the Internet and social media on traditional publishing
 related_publications: true
-date: 2024-12-06
 bibliography: papers.bib
 toc:
     sidebar: left
-    
+
 authors:
     - name: Charlize Gabrielle Rodriguez
     affiliations:
