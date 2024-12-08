@@ -61,15 +61,15 @@ Industrial advancements (like mechanized printing and the use of woodcut illustr
 
 Over time, publishing became more structured — with publishers selecting works to produce based on their potential appeal to the public. As physical books gained popularity, marketing strategies—like newspaper advertisements—also helped connect readers to new works, laying down the foundation for the commercial publishing industry {% cite journalismuniversity2024 %}.
 
-## Challenges of the Traditional Model
+### Challenges of the Traditional Model
 
 Despite its historical significance, traditional publishing faced several challenges through the years:
 
- * Cost and Efficiency: High printing and distribution costs and lengthy production timelines. These hindered publishers to respond quickly to shift and adapt to market demands {% cite m2023 tuckeretal2024 %}.
+ * **Cost and Efficiency**: High printing and distribution costs and lengthy production timelines. These hindered publishers to respond quickly to shift and adapt to market demands {% cite m2023 tuckeretal2024 %}.
 
- * Limited Inclusivity: The centralized structure of publishing houses imposed rigorous selection criteria, often excluding voices that deviated from trends or lacked representation. This exclusivity reinforced a gatekeeping system prioritizing established authors over emerging ones {% cite tuckeretal2024 %}.
+ * **Limited Inclusivity**: The centralized structure of publishing houses imposed rigorous selection criteria, often excluding voices that deviated from trends or lacked representation. This exclusivity reinforced a gatekeeping system prioritizing established authors over emerging ones {% cite tuckeretal2024 %}.
 
- * Dependence on Physical Formats: Reliance on physical books made the industry vulnerable to changes in consumer preferences, such as the growing demand for digital formats {% cite roos2023 %}.
+ * **Dependence on Physical Formats**: Reliance on physical books made the industry vulnerable to changes in consumer preferences, such as the growing demand for digital formats {% cite roos2023 %}.
 
 ## Precursor to Disruption
 
