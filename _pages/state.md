@@ -24,7 +24,7 @@ According to Carreiro (2010), e-books are currently viewed as a supplementary al
 However, the rapid growth of digital platforms has disrupted industries across sectors, such as retail, media, and culture, through their flexibility and interconnected nature (Osadci-Baciu, Zbuchea, & Pînzaru, 2024). While digital platforms offer benefits like increased accessibility and variety, they also present challenges such as piracy and content quality concerns. Platforms, including social media, e-commerce, and content streaming services, enable co-created value by allowing various stakeholders—platform owners, users, and third-party developers—to interact and derive benefits. Unlike traditional economic models that operate within firm boundaries, platforms rely on systems where independent agents coordinate value creation and exchange. This shift presents new challenges for research, due to the distributed nature and interconnectedness of platforms with institutions and technologies.
 
 
-### Short Summary of the Effects on Traditional Publishing
+# Short Summary of the Effects on Traditional Publishing
 
 *Market Accesibility*
 
@@ -40,7 +40,7 @@ Self-publishing has reshaped the business landscape, with authors promoting thei
 **Narrower Options for Authors**
 Due to the edge over Traditional Publishing and lower costs, authors would opt out of using the more modern methods if they want to generate more revenue for their writings.
 
-### Short Suummary of its Disruption in Marketing
+# Short Summary of its Disruption in Marketing
 
 **Social Media Influence**
 Most, if not all authors now use platforms such as Instagram, Twitter, and TikTok to market their books directly to readers, bypassing traditional media. Social media engagement has also birthed trends like #BookTok, which drives sales based on viral recommendations​.
