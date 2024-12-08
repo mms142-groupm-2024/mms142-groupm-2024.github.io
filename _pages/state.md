@@ -67,3 +67,10 @@ Furthermore, using data-driven insights to tailor content tactics raises ethical
 Small conventional publishers' capacity to strike a balance between innovation and sustainability ultimately determines their ability to survive and expand. They must successfully traverse the digital age by critically evaluating the consequences of new technologies as well as embracing them, making sure that their audience's trust and their values are not jeopardised in the name of development.
 
 ## References
+{% osadcietal2024 %}
+
+{% carreiro2010 %}
+
+{% Linkedin %}
+
+{% m2024 %}
