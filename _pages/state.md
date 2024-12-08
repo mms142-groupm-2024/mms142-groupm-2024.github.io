@@ -26,7 +26,7 @@ However, the rapid growth of digital platforms has disrupted industries across s
 
 # Short Summary of the Effects on Traditional Publishing
 
-*Market Accesibility*
+**Market Accesibility**
 
 Traditional publishing relies on rigorous submission processes, including literary agents and editorial reviews, which often act as barriers. Digital platforms eliminate these hurdles, enabling more diverse voices to enter the market​.
 
@@ -35,9 +35,11 @@ Traditional publishing relies on rigorous submission processes, including litera
 Traditional publishing involves higher production costs and time due to printing, distribution, and marketing efforts. Digital publishing reduces these significantly, offering instantaneous global reach at minimal expense. 
 
 **Popularity with Self-Publishing**
+
 Self-publishing has reshaped the business landscape, with authors promoting their work through direct sales, blogs, and social media. Amazon has particularly been instrumental in creating a level playing field for independent writers​.
 
 **Narrower Options for Authors**
+
 Due to the edge over Traditional Publishing and lower costs, authors would opt out of using the more modern methods if they want to generate more revenue for their writings.
 
 # Short Summary of its Disruption in Marketing
