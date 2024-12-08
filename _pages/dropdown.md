@@ -9,4 +9,6 @@ children:
     permalink: /history/
   - title: digital publishing
     permalink: /digital/
+  - title: state of the market after disruption
+    permalink: /state/
 ---
