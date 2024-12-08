@@ -67,9 +67,3 @@ The site is powered by [Jekyll](https://jekyllrb.com/) with the [al-folio theme]
 </table>
 
 To see the division of roles, check [here](https://mms142-groupm-2024.github.io/people/).
-
-## The report*
-The report is divided into three different parts:
-* History of Traditional Publishing
-* Digital Publishing
-* State of the Market After Disruption
