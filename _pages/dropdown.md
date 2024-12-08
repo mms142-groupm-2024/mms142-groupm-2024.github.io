@@ -9,6 +9,6 @@ children:
     permalink: /history/
   - title: digital publishing
     permalink: /digital/
-  - title: the state of the market of traditional publishing after the disruption
+  - title: state of the market after disruption
     permalink: /state/
 ---
