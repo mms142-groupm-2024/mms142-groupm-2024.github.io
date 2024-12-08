@@ -26,7 +26,7 @@ However, the rapid growth of digital platforms has disrupted industries across s
 
 ### Short Summary of the Effects on Traditional Publishing
 
-**Market Accesibility**
+*Market Accesibility*
 
 Traditional publishing relies on rigorous submission processes, including literary agents and editorial reviews, which often act as barriers. Digital platforms eliminate these hurdles, enabling more diverse voices to enter the market​.
 
