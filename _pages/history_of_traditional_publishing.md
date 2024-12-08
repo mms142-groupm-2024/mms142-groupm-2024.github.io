@@ -79,6 +79,8 @@ Self-publishing options empowered authors and enabled them to reach global audie
 
 ## References
 
+{% reference printingpress %}
+
 {% reference journalismuniversity2024 %}
 
 {% reference m2023 %}
@@ -86,5 +88,3 @@ Self-publishing options empowered authors and enabled them to reach global audie
 {% reference roos2023 %}
 
 {% reference tuckeretal2024 %}
-
-{% reference printingpress %}

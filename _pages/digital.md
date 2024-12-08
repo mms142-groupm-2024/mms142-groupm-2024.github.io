@@ -86,11 +86,11 @@ But is this strategy and approach of Wattpad of having an author and reader rela
 
 As we’re currently experiencing, this marketing strategy is an essential tool for businesses and individuals to connect with the audience, build brand awareness, and drive sales {% cite menaka_social_2019 %} . For instance, the most notable social media site that started this is Facebook. The initial goal of this company was to connect people from different locations and times and build a community despite the geographical hurdles that we face in person. Facebook was built upon the desire to reconnect to people that we meet in this lifetime but also having a platform to voice out anybody’s opinion. 
 
-Thus, by adding the business side to these technological companies such as social media platforms like Facebook, Instagram, Twitter, and TikTok, brands can now engage directly with consumers, share content, and advertise products or services {% cite menaka_social_2019 %} . Social media allows targeted advertising that can reach specific demographics and markets based on their use profile including their behavior, location, and interest. Same with how Wattpad is doing, they get to know you when you sign up and show you books, articles, and other literature that you might be interested in. Slowly encouraging you to join and be hooked on potential authors and stories on the platform. 
+Thus, by adding the business side to these technological companies such as social media platforms like Facebook, Instagram, Twitter, and TikTok, brands can now engage directly with consumers, share content, and advertise products or services {% cite menaka_social_2019 %} . Social media allows targeted advertising that can reach specific demographics and markets based on their user profile including their behavior, location, and interest. Same with how Wattpad is doing, they get to know you when you sign up and show you books, articles, and other literature that you might be interested in. Slowly encouraging you to join and be hooked on potential authors and stories on the platform. 
 
 ## Webtoon
 
-Webtoon also represents how digital platforms have disrupted traditional publishing, particularly in the comic and graphic novel industry. This was launched in South Korea in 2004 and gained fame after its American and European debut in 2019, now boasting over 170 million active monthly users from more than 150 countries worldwide {% cite harnett2020webtoon, webtoonplatform %}. 
+Webtoon also represents how digital platforms have disrupted traditional publishing, particularly in the comic and graphic novel industry. This was launched in South Korea in 2004 and gained fame after its American and European debut in 2019, now boasting over 170 million active monthly users from more than 150 countries worldwide {% cite harnett2020webtoon webtoonplatform %}. 
 
 ### Comic-writing beyond industry limits
 
@@ -153,6 +153,8 @@ Scribd remains one of the leading eBook publishing platforms today. Over the pas
 
 {% reference Harriet2023 %}
 
+{% reference team_what_2022 %}
+
 {% reference kemp_what_2024 %}
 
 {% reference menaka_social_2019 %} 
@@ -162,8 +164,6 @@ Scribd remains one of the leading eBook publishing platforms today. Over the pas
 {% reference pierce_kindle_2017 %}
 
 {% reference taylor_very_nodate %}
-
-{% reference team_what_2022 %}
 
 {% reference salkowitz2024dc %}
 
