@@ -1,7 +1,7 @@
 ---
 layout: distill
 title: State of the Market
-permalink: /digital/
+permalink: /state/
 nav bar: false
 description: <b>the state of the market of traditional publishing after the disruption</b><br/>
                 <em>Aries Plantilla
