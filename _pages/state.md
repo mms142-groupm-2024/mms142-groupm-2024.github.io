@@ -14,7 +14,7 @@ related_publications: true
     </div>
 </div>
 <div class="caption" style="font-size:.675rem">
-   Photo by <a href="https://img.freepik.com/free-vector/gradient-stock-market-concept_52683-76908.jpg">Matthew Guay</a> from Unsplash.
+   Photo is for public use from <a href="https://img.freepik.com/free-vector/gradient-stock-market-concept_52683-76908.jpg">Freepik</a>.
 </div>
 
 # State of the Market After Disruption
